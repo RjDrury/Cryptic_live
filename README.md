@@ -27,7 +27,7 @@ A cooperative evaluation was done with a potential user, Matt. Here we discuss h
 3. Run the client-side Vue app in a different terminal window:
     ```sh
     cd client
-    $ npm run install
+    $ npm install
     $ npm run dev
     ```
 
