@@ -1,4 +1,15 @@
-#Cryptic - The all ecompassing live streaming platforms
+# Cryptic - The all ecompassing live streaming platforms
+
+## Features
+* See streams from both Twitch and Mixer using the matching APIs
+* Has a layout similar to Twitch and Mixer
+* Contains a categories page, inidividual category page and a top streams page
+* Video outlining the features can be found [here](https://www.youtube.com/watch?v=dTSohyMrIGo)
+
+## Cooperative Evaluation
+A cooperative evaluation was done with a potential user, Matt. Here we discuss how a user would feel using the app and suggestions for improving the user experience. The whole video can be found [here](https://www.youtube.com/watch?v=tN8fH3AEMUM&t=)
+
+
 ## Want to use this project?
 
 1. Fork/Clone
