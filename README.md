@@ -1,4 +1,4 @@
-### Cryptic - The all ecompassing live streaming platforms
+#Cryptic - The all ecompassing live streaming platforms
 ## Want to use this project?
 
 1. Fork/Clone
