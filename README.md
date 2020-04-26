@@ -25,11 +25,11 @@ A cooperative evaluation was done with a potential user, Matt. Here we discuss h
     ```
 
 3. Run the client-side Vue app in a different terminal window:
-```sh
-cd client
-$ npm run install
-$ npm run dev
-```
+    ```sh
+    cd client
+    $ npm run install
+    $ npm run dev
+    ```
 
-Navigate to [http://localhost:3000] and start using Cryptic! :fire: 
+4. Navigate to [http://localhost:3000] and start using Cryptic! :fire: 
 
