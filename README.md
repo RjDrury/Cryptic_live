@@ -1,9 +1,4 @@
-# Developing a Single Page App with Flask and Vue.js
-
-### Want to learn how to build this? (Does not used nuxt but good starting point)
-
-Check out the [post](https://testdriven.io/developing-a-single-page-app-with-flask-and-vuejs).
-
+### Cryptic - The all ecompassing live streaming platforms
 ## Want to use this project?
 
 1. Fork/Clone
@@ -13,7 +8,7 @@ Check out the [post](https://testdriven.io/developing-a-single-page-app-with-fla
     ```sh
     $ cd server
     $ python3.7 -m venv env
-    $ source env/bin/activate
+    $ source env/bin/activate (for MAC) or env/Scripts/activate.bat (for windows)
     (env)$ pip install -r requirements.txt
     (env)$ python app.py
     ```
