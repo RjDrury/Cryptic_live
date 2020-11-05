@@ -11,7 +11,7 @@ A cooperative evaluation was done with a potential user, Matt. Here we discuss h
 
 
 ## Want to use this project?
-
+# Mixer has since shutdown :( This app will no longer work
 1. Clone the Repository 
 
 2. Run the server-side Flask app in one terminal window:
