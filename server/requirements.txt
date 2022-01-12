@@ -9,7 +9,7 @@ itsdangerous==1.1.0
 Jinja2==2.10
 MarkupSafe==1.1.0
 pep8==1.7.1
-pipenv==2018.11.26
+pipenv==2022.1.8
 requests==2.19.1
 six==1.13.0
 Unidecode==1.1.1
