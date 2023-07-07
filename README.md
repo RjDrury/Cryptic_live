@@ -1,4 +1,4 @@
-# Cryptic - The all ecompassing live streaming platforms
+# Cryptic - The all encompassing live streaming platforms
 
 ## Features
 * See streams from both Twitch and Mixer using the matching APIs
